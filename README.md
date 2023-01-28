@@ -7,3 +7,6 @@ Copy the code to Typermonkey and go to a forum!
 
 # WARNING!
 DO NOT USE IT ON ANY PUBLIC WEBSITES.
+
+# Attention!
+I am not responsible for any loss or any behavior of the user.
