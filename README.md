@@ -1,3 +1,7 @@
+<h1 style="color:red;">
+公告：在Ubmh，硫酸铜（Cupric Sulfate）公开了他的水帖机器，这不再是什么重要的东西，那么我也开源这个项目吧。
+</h1>
+
 # wikidot-guru-machine
 Make your account beautiful!
 
